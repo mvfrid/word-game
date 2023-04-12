@@ -1,0 +1,48 @@
+{
+    "words": [
+      {
+        "id": 1,
+        "word": "apa",
+        "answer": "en",
+        "level": "easy"
+      },
+      {
+        "id": 2,
+        "word": "apelsin",
+        "answer": "en",
+        "level": "easy"
+      },
+      {
+        "id": 3,
+        "word": "ananas",
+        "answer": "en",
+        "level": "easy"
+      },
+      {
+        "id": 4,
+        "word": "aktiebolag",
+        "answer": "ett",
+        "level": "difficult"
+      },
+      {
+        "id": 5,
+        "word": "aprikos",
+        "answer": "en",
+        "level": "easy"
+      },
+      {
+        "id": 6,
+        "word": "ansvar",
+        "answer": "ett",
+        "level": "medium"
+      },
+      {
+        "id": 7,
+        "word": "arbete",
+        "answer": "ett",
+        "level": "medium"
+      }
+    ]
+  }
+  
+  
